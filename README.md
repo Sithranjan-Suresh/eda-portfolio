@@ -40,7 +40,7 @@ Planned EDA projects exploring diverse domains such as finance, healthcare, or e
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/<your-username>/eda-portfolio.git
+   git clone https://github.com/Sithranjan-Suresh/eda-portfolio.git
    ```
 2. Install dependencies:
 
@@ -54,3 +54,4 @@ Planned EDA projects exploring diverse domains such as finance, healthcare, or e
    ```
 
 ---
+
